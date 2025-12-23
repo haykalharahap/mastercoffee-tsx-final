@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Kopi Susu Perasaan",
+    "price": 30000,
+    "image": "/images/cup2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Orange Americano",
+    "price": 28000,
+    "image": "/images/cup3.jpg"
+
+  },
+  {
+    "id": 3,
+    "name": "Spanish Latte",
+    "price": 25000,
+    "image": "/images/cup4.jpg"
+  }
+]
