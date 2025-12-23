@@ -2,3 +2,8 @@ node_modules
 .DS_Store
 dist
 .env
+node_modules
+.DS_Store
+dist
+.env
+>>>>>>> 55c9c306d1785c87215c9e801ed7e66f839908d9
